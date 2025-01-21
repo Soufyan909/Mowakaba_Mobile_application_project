@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "690505520597",
+    "project_id": "mowakkaba-application-ec012",
+    "storage_bucket": "mowakkaba-application-ec012.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690505520597:android:61bc8d02d06aee7d81995c",
+        "android_client_info": {
+          "package_name": "com.mycompany.mowakkabaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690505520597-t952pj4243km0lt6sf8sbaa8n9vidv63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mowakkabaapplication",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "690505520597-f4b2gor4mcekit64rt4tp25n567kfkkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQz99NQOFDb7vJMNfUgfJdkS0eF4fGGmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690505520597-f4b2gor4mcekit64rt4tp25n567kfkkj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690505520597-f5q3tkggd4bu8drga5rsiaq6uac4ponf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mowakkabaapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
